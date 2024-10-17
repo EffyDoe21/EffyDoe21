@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hola 👋, Soy Estefanía Becerra Quintero</h1>
 <h3 align="center">Ingeniera de Software Junior especializada en desarrollo web, con experiencia en diversas tecnologías y capacidad para adaptarse a proyectos en diferentes áreas del desarrollo de software.</h3>
