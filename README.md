@@ -15,7 +15,7 @@
 - 📫 Contactamente: **Estefaniabecerraquintero@gmail.com**
 
 
-<h3 align="left">Languages, Tools, and Databases:</h3>
+<h3 align="left">Lenguajes, Herramientas, y Databases:</h3>
 <p align="left">
   
 <p align="left">
