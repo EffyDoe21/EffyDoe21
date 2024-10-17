@@ -1,17 +1,18 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Estefanía Becerra Quintero</h1>
+<h1 align="center">Hola 👋, Soy Estefanía Becerra Quintero</h1>
 <h3 align="center">Ingeniera de Software Junior especializada en desarrollo web, con experiencia en diversas tecnologías y capacidad para adaptarse a proyectos en diferentes áreas del desarrollo de software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=effydoe21&label=Profile%20views&color=0e75b6&style=flat" alt="effydoe21" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 Actualmente estoy aprendiendo: **Java y
+                               Angular**
 
-- 👨‍💻 All of my projects are available at [https://effydoe21.github.io/Portafolio-de-Software-Profesional/](https://effydoe21.github.io/Portafolio-de-Software-Profesional/)
+- 👨‍💻 Todos mis Proyectos estan disponibles en: [https://effydoe21.github.io/Portafolio-de-Software-Profesional/](https://effydoe21.github.io/Portafolio-de-Software-Profesional/)
 
-- 💬 Ask me about **Ingeniería de Software, Administradora Ambiental, Técnico en Sistemas y Tecnología en Desarrollo de Videojuegos y entornos interactivos.**
+- 💬 Acerca de mi: **Ingeniería de Software, Administradora Ambiental, Técnico en Sistemas y Tecnología en Desarrollo de Videojuegos y entornos interactivos.**
 
-- 📫 How to reach me **Estefaniabecerraquintero@gmail.com**
+- 📫 Contactamente **Estefaniabecerraquintero@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
