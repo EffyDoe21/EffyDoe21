@@ -17,7 +17,7 @@
  
 <h3 align="left">Lenguajes, Herramientas, y Databases:</h3>
 <p align="left">
- <div style="background-color: black; color: white; padding: 10px; border-radius: 5px;"> 
+
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
