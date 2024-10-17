@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**EffyDoe21/EffyDoe21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Estefanía Becerra Quintero</h1>
 <h3 align="center">Ingeniera de Software Junior especializada en desarrollo web, con experiencia en diversas tecnologías y capacidad para adaptarse a proyectos en diferentes áreas del desarrollo de software.</h3>
 
