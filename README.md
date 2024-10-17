@@ -12,7 +12,7 @@
 
 - 💬 Acerca de mi: **Ingeniería de Software, Administradora Ambiental, Técnico en Sistemas y Tecnología en Desarrollo de Videojuegos y entornos interactivos.**
 
-- 📫 Contactamente **Estefaniabecerraquintero@gmail.com**
+- 📫 Contactamente: **Estefaniabecerraquintero@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
