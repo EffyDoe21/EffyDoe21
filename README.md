@@ -13,7 +13,7 @@
 
 - 📫 Contactamente: **Estefaniabecerraquintero@gmail.com**
 
-![Banner GitHub](https://github.com/EffyDoe21/EffyDoe21/blob/main/Banner%20GitHUB.png) 
+![Banner GitHub](https://effydoe21.github.io/Portafolio-de-Software-Profesional/#inicio) 
  
 <h3 align="left">Lenguajes, Herramientas, y Databases:</h3>
 <p align="left">
