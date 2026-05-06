@@ -33,7 +33,6 @@ Me enfoco en crear aplicaciones atractivas, escalables y centradas en el usuario
   - Soporte Técnico y Sistemas
 - 📫 Contacto: **Estefaniabecerraquintero@gmail.com**
 
-```html id="k29xsa"
 <h3 align="left">💻 Lenguajes de Programación</h3>
 
 <p align="left">
@@ -115,7 +114,6 @@ Me enfoco en crear aplicaciones atractivas, escalables y centradas en el usuario
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/>
   </a>
 </p>
-```
 
 
 
