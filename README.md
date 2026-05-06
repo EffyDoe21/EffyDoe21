@@ -149,22 +149,6 @@ Apasionada por el desarrollo de interfaces modernas, experiencias digitales intu
 
 ---
 
-## 📌 Gestión de Proyectos y Análisis
-
-✨ Con conocimientos en:
-
-- Gestión de proyectos de software
-- Scrum y metodologías ágiles
-- Levantamiento y análisis de requerimientos
-- Documentación funcional y técnica
-- Diseño de soluciones tecnológicas
-- UX aplicada al desarrollo de software
-- Planeación y seguimiento de proyectos
-- Power BI y visualización de datos
-- Soporte técnico y mantenimiento de software
-
----
-
 ## ✨ Lo que me caracteriza
 
 ✅ Adaptabilidad a diferentes tecnologías y proyectos  
