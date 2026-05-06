@@ -3,7 +3,7 @@
 <table>
 <tr>
 
-<td width="60%">
+<td width="70%">
 
 <h3>💻 Ingeniera de Software | Desarrollo Web Full Stack | UI/UX Design</h3>
 
