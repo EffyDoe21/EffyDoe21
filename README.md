@@ -116,9 +116,9 @@ Me enfoco en crear aplicaciones atractivas, escalables y centradas en el usuario
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
   </a>
 
-  <a href="https://flask.palletsprojects.com/" target="_blank">
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>
-  </a>
+</a>
 
 </p>
 
@@ -161,17 +161,6 @@ Me enfoco en crear aplicaciones atractivas, escalables y centradas en el usuario
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=effydoe21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="effydoe21" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=effydoe21&show_icons=true&locale=en&theme=tokyonight" alt="effydoe21" />
-</p>
-
----
 
 <p align="center">
 ✨ “El diseño no es solo cómo se ve, sino cómo funciona.” ✨
