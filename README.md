@@ -32,6 +32,8 @@ Me enfoco en crear aplicaciones atractivas, escalables y centradas en el usuario
   - Desarrollo de Videojuegos
   - Soporte Técnico y Sistemas
 - 📫 Contacto: **Estefaniabecerraquintero@gmail.com**
+  
+---
 
 <h3 align="left">💻 Lenguajes de Programación</h3>
 
