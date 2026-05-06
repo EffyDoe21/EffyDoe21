@@ -116,10 +116,6 @@ Me enfoco en crear aplicaciones atractivas, escalables y centradas en el usuario
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
   </a>
 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>
-</a>
-
 </p>
 
 ---
